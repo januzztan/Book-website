@@ -6,4 +6,6 @@ The main functions of the websites are adding a new book to the database, viewin
 
 The fields adjustable for the books include the title, description, price and cover image.
 
+<ins>Video Demonstration</ins>
+
 [![YouTube](http://i.ytimg.com/vi/KAuFEimvi9Y/hqdefault.jpg)](https://www.youtube.com/watch?v=KAuFEimvi9Y)
